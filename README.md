@@ -17,15 +17,25 @@ Those two are what you'll need to change on your computer.
 *example input file for enumdata.txt*
 
   public const ADVANCE = [
+
       'id' => 1,
+
       'name' => 'Advance',
+
       'slug' => 'advance',
+
   ];
+
   public const AICHI = [
+
       'id' => 2,
+
       'name' => 'Aichi',
+
       'slug' => 'aichi',
+
   ];
+
 
 ## convertVueToLaravel.js
 
@@ -40,4 +50,5 @@ Those two are what you'll need to change on your computer.
 *example input file for jsondata.txt*
 
   { "name": "Advance", "value": "1" },
+  
   { "name": "Aichi", "value": "2" },
